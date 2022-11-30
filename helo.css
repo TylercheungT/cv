@@ -1,0 +1,23 @@
+img{
+    border: solid olive;
+    margin: 20px;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    flex-direction: row;
+    flex: wrap;
+    justify-content: space-around;
+    align-content: space-around;
+}
+h1{
+    border: solid lightblue;
+    text-align: center;
+   margin: 10px;
+   width: 280px;
+   background-color: bisque;
+
+}
+
+
+/*窗口大小變換的時候自動換行
+flex-wrap: wrap;*/
